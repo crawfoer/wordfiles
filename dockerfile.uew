@@ -1,0 +1,18 @@
+/L20"Dockerfiles" Line Comment = # Nocase File Names = Dockerfile
+/Delimiters = ~!@%^&*()-+=|\/{}[]:;"'<> ,	.?
+/C1 STYLE_KEYWORD
+ADD
+CMD COPY
+ENTRYPOINT ENV EXPOSE
+FROM
+MAINTAINER
+ONBUILD
+RUN
+USER
+VOLUME
+WORKDIR
+/C2
+[
+]
+/C3
+\
